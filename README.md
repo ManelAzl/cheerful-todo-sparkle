@@ -1,9 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to my Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/483abce2-e807-4182-949b-1d352637f08d
-
+**URL**: https://manelazl.github.io/cheerful-todo-sparkle/
 # My Lovely To-Dos - A Cheerful Task Manager 🌈
 
 Welcome to **My Lovely To-Dos** - a bright, friendly to-do list application that makes task management delightful! This project was built with pure HTML and CSS (no JavaScript required) to create an interactive, visually appealing experience.
